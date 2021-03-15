@@ -14,7 +14,7 @@ Current types of plots:
 
     The location on the horizontal axis represents the start of the zbin (not the center).
     The names of the analysis methods include kdst (which is the kdst analysis method) and
-    json\_<xymethod>\_<zmethod>\_<sub>. xymethod can be xymsipm, xylocit, xyloc for max sipm, local
+    json\_\<xymethod\>\_\<zmethod\>\_\<sub\>. xymethod can be xymsipm, xylocit, xyloc for max sipm, local
     center of gravity iterated, and local center of gravity (resp). zmethod can be zgauss
     or zrms, respectively. "sub" indicates whether the prewindow subtraction is being applied
     (if yes, you'll see "\_sub", if not, you'll see nothing).
