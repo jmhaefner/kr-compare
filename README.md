@@ -8,7 +8,7 @@ Current types of plots:
 - QXYZ plots. These have names beginning with "QXYZcompare". These plots compare
     various quantities vs x, y, z. The names should look like QXYZcompare\_Q\_Nxy\_Mz\_YYYY-MM-DD.
     Q is the quantity (S2e = S2 energy, N = number of events, etc). Nxy means N x bins and N
-    Y bins (so N*N xy bins). Mz is M zbins. Will always be divided into N*N different plots,
+    Y bins (so N\*N xy bins). Mz is M zbins. Will always be divided into N\*N different plots,
     each with a curve of Q vs Z for each of several different analysis methods. YYYY-MM-DD is
     the date of creation of the plot.
 
